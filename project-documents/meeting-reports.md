@@ -48,7 +48,7 @@ Nguyễn Phạm Minh Quân
 Nguyễn Công Tài  
 ## Vấn đề
 ### 1. Thống nhất yêu cầu:
-Thống nhất 3 yêu cầu cơ bản của ứng dụng **Nắng Cafe**: **Sơ đồ cơ cấu**, **Nghiệp vụ - Yêu cầu của nhân viên bán hàng**, **Nghiệp vụ - Yêu cầu của Quản lí nhân sự**
+Thống nhất 4 yêu cầu cơ bản của ứng dụng **Nắng Cafe**: **Sơ đồ cơ cấu**, **Nghiệp vụ - Yêu cầu của nhân viên bán hàng**, **Nghiệp vụ - Yêu cầu của Quản lí nhân sự**, **Nghiệp vụ - Yêu cầu của quản lí sản phẩm**
 ### 2. Phân công việc:
 **Viết mô tả cửa hàng**: Nguyễn Công Tài  
 **Viết sơ đồ cơ cấu**: Nguyễn Phạm Minh Quân  
@@ -56,5 +56,6 @@ Thống nhất 3 yêu cầu cơ bản của ứng dụng **Nắng Cafe**: **Sơ 
 **Viết Nghiệp vụ - Yêu cầu của quản lí nhân sự**: Trương Vĩ Lâm  
 **Thiết kế logo**: Noor-A Kim Lam, Trần Ngọc Tuyết Linh  
 **Viết báo cáo dự án**: Phạm Minh Quang  
+**Viết Nghiệp vụ - Yêu cầu của quản lí sản phẩm**: Nguyễn Bá Phi Nhật  
 **Viết báo cáo họp**: Nguyễn Triều Minh Khang  
 **Hạn chót** của các công việc trên: Thứ 3(12.10.2020)
