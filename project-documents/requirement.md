@@ -1,6 +1,8 @@
 # Yêu cầu đồ án
 
 ## Tổng quan
+Nắng Cafe - Không gian yên bình giữa phố đông  
+Bạn muốn trốn khỏi sự bộn bề của thành phố? Bạn muốn một nơi yên tĩnh để làm việc nghỉ ngơi? Với nhiều góc tranh đẹp, hương vị cafe Colombia đậ đà và đa dạng các loại bánh đặc biệt. Nắng Cafe đáp ứng được mọi nhu cầu của khách hàng. Hãy đến và tự mình trải nghiệm.
 
 ## Sơ đồ cơ cấu
 #**Sơ đồ cơ cấu tổ chức phân quyền Nắng coffee and cake**
