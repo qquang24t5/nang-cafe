@@ -26,20 +26,17 @@ Bạn muốn trốn khỏi sự bộn bề của thành phố? Bạn muốn mộ
 ## Nghiệp vụ - yêu cầu
 ### Nhân viên bán hàng
    
-   * YÊU CẦU CỦA QUẢN LÝ NHÂN VIÊN BÁN HÀNG 
-      * `Chấm công`
-      Nhân viên thực hiện thao tác trên máy POS để máy lưu lại thời gian bắt đầu và kết thúc ca làm
-      * `Lập hóa đơn`
-      Lập ra danh sách các món mà khách hàng đã chọn, thực hiện sửa xóa khi khách hàng yêu cầu
-      * `Xuất hóa đơn`
-      Cho phép nhân viên in hóa đơn khi khách hàng thanh toán xong
-      * `Hiển thị lương`
-      Cho phép nhân viên xem lương và giờ làm của mình
-   * NGHIỆP VỤ CỦA QUẢN LÝ NHÂN VIÊN BÁN HÀNG
-      * `Trong cửa hàng luôn có một khoản tiền cố định (vd 500.000), khi nhân viên bắt đầu ca làm thì thực hiện đếm số tiền đó và xác nhận đủ hoặc thiếu để báo lại cho cấp trên`
-      * `Nhân viên khởi động máy POS,máy sẽ lưu lại thời gian bắt đầu và kết thúc ca làm khi nhân viên nhập mã của mình và bấm nút START khi vào ca và END khi kết thúc ca`
-      * `Khi khách hàng order thì nhân viên bấm trên máy POS những món khách vừa gọi, xác nhận lại xem khách có muốn thêm hoặ hủy món nào không (để thực hiện công việc thêm, xóa sản phẩm)`
-      * `Khi đã xác nhận món và nhận tiền thanh toán thì nhân viên tiến hành in hóa đơn đưa cho khách hàng để khách hàng có thể kiểm tra có sai xót gì không. Khi in hóa đơn ra thì không thể đổi món trong hóa đơn hoặc hoàn tiền lại cho khách hàng. Nếu muốn gọi thêm thì nhân viên lập một hóa đơn khác đưa cho khách hàng`
-      * `Khi kết thúc ca, nhân viên ca trước giao ca với nhân viên tiếp theo, cả hai lập báo cáo doanh thu ca đó,thực hiện đếm tiền xem có trùng khớp với doanh thu hay không, nếu thiếu tiền thì nhân viên ca trước phải bồi thường lại số tiền thiếu cho cửa hà
+   ## Yêu cầu của nhân viên bán hàng
+**Chấm công:** Nhân viên thực hiện thao tác trên máy POS để máy lưu lại thời gian bắt đầu và kết thúc ca làm
+**Lập hóa đơn:** Lập ra danh sách các món mà khách hàng đã chọn, thực hiện sửa xóa khi khách hàng yêu cầu
+**Xuất hóa đơn:** Cho phép nhân viên in hóa đơn khi khách hàng thanh toán xong
+**Hiển thị lương:** Cho phép nhân viên xem lương và giờ làm của mình
+
+## Nghiệp vụ của nhân viên bán hàng
+* `Trong cửa hàng luôn có một khoản tiền cố định (vd 500.000), khi nhân viên bắt đầu ca làm thì thực hiện đếm số tiền đó và xác nhận đủ hoặc thiếu để báo lại cho cấp trên.
+* ` Nhân viên khởi động máy POS,máy sẽ lưu lại thời gian bắt đầu và kết thúc ca làm khi nhân viên nhập mã của mình và bấm nút START khi vào ca và END khi kết thúc ca`
+* ` Khi khách hàng order thì nhân viên bấm trên máy POS những món khách vừa gọi, xác nhận lại xem khách có muốn thêm hoặ hủy món nào không (để thực hiện công việc thêm, xóa sản phẩm)`
+* `Khi đã xác nhận món và nhận tiền thanh toán thì nhân viên tiến hành in hóa đơn đưa cho khách hàng để khách hàng có thể kiểm tra có sai xót gì không. Khi in hóa đơn ra thì không thể đổi món trong hóa đơn hoặc hoàn tiền lại cho khách hàng. Nếu muốn gọi thêm thì nhân viên lập một hóa đơn khác đưa cho khách hàng`
+* `Khi kết thúc ca, nhân viên ca trước giao ca với nhân viên tiếp theo, cả hai lập báo cáo doanh thu ca đó,thực hiện đếm tiền xem có trùng khớp với doanh thu hay không, nếu thiếu tiền thì nhân viên ca trước phải bồi thường lại số tiền thiếu cho cửa hàng`
 ### Quản lý nhân sự
 ### Quản lý sản phẩm
