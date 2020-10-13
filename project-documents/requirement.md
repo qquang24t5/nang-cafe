@@ -25,8 +25,8 @@ Bạn muốn trốn khỏi sự bộn bề của thành phố? Bạn muốn mộ
 - [^1] : Nắng cà phê là mô hình quán coffee vừa
 ## Nghiệp vụ - yêu cầu
 ### Nhân viên bán hàng
-   **Quản lý nhân viên bán hàng**
-   #### YÊU CẦU CỦA QUẢN LÝ NHÂN VIÊN BÁN HÀNG 
+   
+   * YÊU CẦU CỦA QUẢN LÝ NHÂN VIÊN BÁN HÀNG 
       * `Chấm công`
       Nhân viên thực hiện thao tác trên máy POS để máy lưu lại thời gian bắt đầu và kết thúc ca làm
       * `Lập hóa đơn`
@@ -35,7 +35,7 @@ Bạn muốn trốn khỏi sự bộn bề của thành phố? Bạn muốn mộ
       Cho phép nhân viên in hóa đơn khi khách hàng thanh toán xong
       * `Hiển thị lương`
       Cho phép nhân viên xem lương và giờ làm của mình
-   #### NGHIỆP VỤ CỦA QUẢN LÝ NHÂN VIÊN BÁN HÀNG
+   * NGHIỆP VỤ CỦA QUẢN LÝ NHÂN VIÊN BÁN HÀNG
       * `Trong cửa hàng luôn có một khoản tiền cố định (vd 500.000), khi nhân viên bắt đầu ca làm thì thực hiện đếm số tiền đó và xác nhận đủ hoặc thiếu để báo lại cho cấp trên`
       * `Nhân viên khởi động máy POS,máy sẽ lưu lại thời gian bắt đầu và kết thúc ca làm khi nhân viên nhập mã của mình và bấm nút START khi vào ca và END khi kết thúc ca`
       * `Khi khách hàng order thì nhân viên bấm trên máy POS những món khách vừa gọi, xác nhận lại xem khách có muốn thêm hoặ hủy món nào không (để thực hiện công việc thêm, xóa sản phẩm)`
