@@ -27,13 +27,13 @@ Bạn muốn trốn khỏi sự bộn bề của thành phố? Bạn muốn mộ
 ### Nhân viên bán hàng
    
    ## Yêu cầu của nhân viên bán hàng
-   **Chấm công:** 
+   * Chấm công: 
    Nhân viên thực hiện thao tác trên máy POS để máy lưu lại thời gian bắt đầu và kết thúc ca làm
-   **Lập hóa đơn:** 
+   * Lập hóa đơn:
    Lập ra danh sách các món mà khách hàng đã chọn, thực hiện sửa xóa khi khách hàng yêu cầu
-   **Xuất hóa đơn:** 
+   * Xuất hóa đơn:
    Cho phép nhân viên in hóa đơn khi khách hàng thanh toán xong
-   **Hiển thị lương:** 
+   * Hiển thị lương: 
    Cho phép nhân viên xem lương và giờ làm của mình
 
    ## Nghiệp vụ của nhân viên bán hàng
