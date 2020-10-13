@@ -44,7 +44,9 @@ Bạn muốn trốn khỏi sự bộn bề của thành phố? Bạn muốn mộ
    * `Khi kết thúc ca, nhân viên ca trước giao ca với nhân viên tiếp theo, cả hai lập báo cáo doanh thu ca đó,thực hiện đếm tiền xem có trùng khớp với doanh thu hay không, nếu thiếu tiền thì nhân viên ca trước phải bồi thường lại số tiền thiếu cho cửa hàng`
 ### Quản lý nhân sự
    *`Nhân viên khi vào làm việc sẽ phải đăng nhập vào hệ thống bằng tài khoản và mật khẩu được cấp thì mới bắt đầu sử dụng được các chức năng trong quyền hạn của mình như là lập hóa đơn,tạo thông tin khách hàng mới và cuối ca làm của mình thì phải đăng xuất ra khỏi hệ thống`
+   
    *`Sau thời gian kết ca , các tài khoản còn đang đăng nhập trên hệ thống sẽ tự động được đăng xuất.Hệ thống sẽ ghi nhận lại thời gian nhân viên đăng nhập và đăng xuất để tính toán thời gian nhân viên đó đi làm một ngày để có thể ghi nhận lại và tính tiền lương cuối tháng`
+   
   *`Ngoài ra hệ thống còn ghi lại số lượng sản phẩm nhân viên bán được trong 1 ca làm để đánh giá hiểu quả làm việc của nhân viên đó.Số lượng sản phẩm trong một đơn hàng càng nhiều và càng nhiều đơn hàng thì nhân viên đó sẽ được thưởng vào cuối tháng với số tiền thưởng bằng 2% doanh thu cả tháng`
      ![FlowChart](https://github.com/luongvilam123/hello-word/blob/master/PersonnelManagementWorkFlow.svg)
 ### Quản lý sản phẩm
