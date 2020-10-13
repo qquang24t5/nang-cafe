@@ -14,7 +14,7 @@
     * Hyperlink sơ đồ tổ chức phân quyền
     [HOS](https://drive.google.com/file/d/1UeBcywg3FoBpg5hhYMZ19xMkDrD6wwni/view?usp=sharing)
     * Hình ảnh sơ đồ tổ chức phân quyền
-    ![HOSI](NANG-CAFE/project-documents/HOS.png)(&lt;img alt="HOS-Image"/&gt;)
+    ![HOSI](https://github.com/qquang24t5/nang-cafe/blob/project-documents/project-documents/HOS.png)(&lt;img alt="HOS-Image"/&gt;)
 - [^1]: Nắng cà phê là mô hình quán coffee vừa
 
 
