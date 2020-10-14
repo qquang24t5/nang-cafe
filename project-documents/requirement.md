@@ -50,3 +50,29 @@ Bạn muốn trốn khỏi sự bộn bề của thành phố? Bạn muốn mộ
   *`Ngoài ra hệ thống còn ghi lại số lượng sản phẩm nhân viên bán được trong 1 ca làm để đánh giá hiểu quả làm việc của nhân viên đó.Số lượng sản phẩm trong một đơn hàng càng nhiều và càng nhiều đơn hàng thì nhân viên đó sẽ được thưởng vào cuối tháng với số tiền thưởng bằng 2% doanh thu cả tháng`
      ![FlowChart](https://github.com/luongvilam123/hello-word/blob/master/PersonnelManagementWorkFlow.svg)
 ### Quản lý sản phẩm
+   **Yêu cầu - Quản lý sản phẩm (Quyền Admin)**
+   * `Hiển thị danh sách và thông tin sản phẩm`
+   Cho phép người sử dụng nhìn thấy danh sách sản phẩm và thông tin của sản phẩm qua 1 bảng để dễ dàng quản lý.
+   * `Thêm sản phẩm`
+   Cho phép thêm 1 sản phẩm thông qua nút **Thêm**. Khi thêm tất cả các ô thông tin phải được điền đầy đủ và thông tin hợp lệ
+   * `Sửa sản phẩm`
+   Cho phép sửa 1 sản phẩm đã chọn trên bảng danh sách thông qua nút **Sửa**. Khi sửa tương tự như **Thêm**
+   * `Xóa sản phẩm`
+   Cho phép xóa 1 sản phẩm đã chọn trên bảng danh sách thông qua nút **Xóa**
+   * `Tìm kiếm sản phẩm`
+   Cho phép người dùng tìm kiếm nhanh 1 sản phẩm nào đó qua textbox **Tìm kiếm** bằng cách gõ mã sản phẩm hoặc tên sản phẩm
+   * `Quản lý chương trình khuyến mãi` 
+   Cho phép thêm, sửa, xóa sản phẩm khuyến mãi với mức giá và thời gian khuyến mãi được cài đặt
+   * `In danh sách sản phẩm (Menu)`
+   Cho phép in danh sách sản phẩm ra file .docx hoặc file .xlsx để có thể chỉnh sửa dễ dàng làm menu quán
+   ***
+   **Nghiệp vụ - Quản lý sản phẩm (Quyền Admin)**
+   1. Khi tới giờ làm việc quản trị viên sẽ đăng nhập vào hệ thống bằng tài khoản có quyền Admin và bấm bắt đầu tức chấm công thời gian bắt đầu sẽ tự động được lưu vào hệ thống
+   * Admin quản lý danh sách và thông tin sản phẩm qua bảng danh sách hiển thị trên màn hình
+   * Khi cửa hàng ra mắt sản phẩm mới với công thức mới Admin sẽ truy cập vào bảng quản lý sản phẩm để thêm sản phẩm mới
+   * Khi cửa hàng cần cải tiến một công đã cũ Admin sẽ truy cập vào bảng quản lý sản phẩm để chỉnh sửa sản phẩm 
+   * Khi cửa hàng dừng cung cấp một loại sản phẩm nào đấy Admin sẽ truy cập vào bảng quản lý sản phẩm để xóa sản phẩm cũ đi 
+   * Khi cần tìm kiếm một sản phẩm Admin cần truy cập vào bảng quản lý sản phẩm để tìm kiếm kết quả sẽ được hiển thị rút gọn thông qua bảng danh sách
+   * Khi cửa hàng tổ chức 1 đợt khuyến mãi Admin sẽ truy cập vào bảng quản lý sản phẩm để cài đặt chương trình khuyến mãi 
+   * Khi danh sách sản phẩm được thay đổi (thêm, xóa, sửa) Admin sẽ truy cập vào bảng quản lý sản phẩm để in ra hóa đơn mới nhất 
+   2. Kết thúc ca làm việc quản trị viên bấm kết thúc ca thời gian sẽ được lưu vào hệ thống sau đó Admin đăng xuất khỏi hệ thống
