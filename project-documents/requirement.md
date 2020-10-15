@@ -1,8 +1,32 @@
 # Nắng Cafe: Tài liệu đặc tả yêu cầu phần mềm - Software Requirement Specification (SRS)
 
-## Tổng quan
-Nắng Cafe - Không gian yên bình giữa phố đông  
-Bạn muốn trốn khỏi sự bộn bề của thành phố? Bạn muốn một nơi yên tĩnh để làm việc nghỉ ngơi? Với nhiều góc tranh đẹp, hương vị cafe Colombia đậ đà và đa dạng các loại bánh đặc biệt. Nắng Cafe đáp ứng được mọi nhu cầu của khách hàng. Hãy đến và tự mình trải nghiệm.
+## Giới thiệu dự án - Introduction
+
+### Mục đích - Purpose
+
+Phần mềm này sẽ giúp Nắng Cafe - một cửa hàng cà phê và bánh ngọt cỡ vừa - quản lý quy trình hoạt động và dữ liệu của cửa hàng, cũng như giúp cửa hàng phát triển website giúp tiếp cận, tương tác với khách hàng.
+
+### Những bên sử dụng tài liệu - Intended Audience
+
+- Giảng viên môn học - TS. Nguyễn Thành Huy
+- Tất cả sinh viên trong nhóm phát triển phần mềm của Nắng Cafe
+  - Nguyễn Triều Minh Khang
+  - Noor-A Kim Lam
+  - Lương Vĩ Lâm
+  - Đỗ Thị Linh
+  - Trần Ngọc Tuyết Linh
+  - Nguyễn Bá Phi Nhật
+  - Nguyễn Phạm Minh Quân
+  - Phạm Minh Quang
+  - Nguyễn Công Tài
+
+### Phạm vi dự án - Scope
+
+Để Nắng Cafe có thể phát triển nhanh chóng, phần mềm này sẽ giúp ghi chép, lưu trữ và truyền thông tin, dữ liệu, tăng khả năng giao tiếp giữa các ban/thành viên trong cửa hàng. Ngoài ra phần mềm này cũng sẽ bao gồm website của cửa hàng, giúp khách hàng có thể tiếp cận được cửa hàng dễ dàng hơn. Từ những điều trên, phần mềm sẽ giúp cửa hàng hoạt động có tổ chức, có hệ thống hơn.
+
+### Khái niệm và từ biết tắt
+
+...
 
 ## Sơ đồ cơ cấu
 
