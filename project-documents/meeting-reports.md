@@ -3,12 +3,12 @@
 ## Thành viên tham dự
 
 Nguyễn Triều Minh Khang  
-Noor-A Kim Lam  
-Trương Vĩ Lâm  
-Đỗ Thị Linh  
-Nguyễn Bá Phi Nhật  
-Phạm Minh Quang  
-Nguyễn Phạm Minh Quân  
+Noor-A Kim Lam
+Trương Vĩ Lâm
+Đỗ Thị Linh
+Nguyễn Bá Phi Nhật
+Phạm Minh Quang
+Nguyễn Phạm Minh Quân
 Nguyễn Công Tài
 
 ## Vấn đề và quyết định
@@ -28,10 +28,10 @@ Nguyễn Công Tài
 
 ## Công việc cần làm:
 
-Các thành viên trong nhóm tiếp tục học cách sử dụng:
-**Các công cụ chung:** Git, Github, Trello
-**Nhóm Frontend:** HTML, CSS, JavaScript, Vue.js
-**Nhóm Backend:** Java, Spring, SQL
+Các thành viên trong nhóm tiếp tục học cách sử dụng:  
+**Các công cụ chung:** Git, Github, Trello  
+**Nhóm Frontend:** HTML, CSS, JavaScript, Vue.js  
+**Nhóm Backend:** Java, Spring, SQL  
 
 # 01.10.2020
 
@@ -44,7 +44,7 @@ Trương Vĩ Lâm
 Trần Ngọc Tuyết Linh  
 Nguyễn Bá Phi Nhật  
 Phạm Minh Quang  
-Nguyễn Phạm Minh Quân
+Nguyễn Phạm Minh Quân  
 
 ## Vấn đề
 
@@ -62,13 +62,17 @@ Nguyễn Triều Minh Khang
 Nguyễn Bá Phi Nhật  
 Phạm Minh Quang  
 Nguyễn Phạm Minh Quân  
-Nguyễn Công Tài
+Nguyễn Công Tài  
 
 ## Vấn đề
 
 ### 1. Thống nhất yêu cầu:
 
-Thống nhất 4 yêu cầu cơ bản của ứng dụng **Nắng Cafe**: **Sơ đồ cơ cấu**, **Nghiệp vụ - Yêu cầu của nhân viên bán hàng**, **Nghiệp vụ - Yêu cầu của Quản lí nhân sự**, **Nghiệp vụ - Yêu cầu của quản lí sản phẩm**
+Thống nhất 4 yêu cầu cơ bản của ứng dụng **Nắng Cafe**:
+1. Sơ đồ cơ cấu
+2. Nghiệp vụ - Yêu cầu của nhân viên bán hàng
+3. Nghiệp vụ - Yêu cầu của Quản lí nhân sự
+4. Nghiệp vụ - Yêu cầu của quản lí sản phẩm
 
 ### 2. Phân công việc:
 
@@ -92,7 +96,7 @@ Phạm Minh Quang
 Nguyễn Phạm Minh Quân  
 Nguyễn Công Tài  
 Noor-A Kim Lam  
-Trương Vĩ Lâm
+Trương Vĩ Lâm  
 
 ## Vấn đề
 
@@ -100,8 +104,8 @@ Trương Vĩ Lâm
 
 1. Hoàn thiện thiết kế logo: Thiết kế thêm logo cho admin
 2. Thiết kế theme cho website:
-   -Màu sắc (dựa vào logo)
-   -Font chữ
+   - Màu sắc (dựa vào logo)
+   - Font chữ
 3. Bắt đầu viết css để làm cơ sở cho front-end
 
 ### Back-end:
