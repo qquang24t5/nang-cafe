@@ -24,7 +24,21 @@ Phần mềm này sẽ giúp Nắng Cafe - một cửa hàng cà phê và bánh 
 
 Để Nắng Cafe có thể phát triển nhanh chóng, phần mềm này sẽ giúp ghi chép, lưu trữ và truyền thông tin, dữ liệu, tăng khả năng giao tiếp giữa các ban/thành viên trong cửa hàng. Ngoài ra phần mềm này cũng sẽ bao gồm website của cửa hàng, giúp khách hàng có thể tiếp cận được cửa hàng dễ dàng hơn. Từ những điều trên, phần mềm sẽ giúp cửa hàng hoạt động có tổ chức, có hệ thống hơn.
 
-### Khái niệm và từ biết tắt
+### Khái niệm và từ viết tắt - Definitions and acronyms
+
+(trống)
+
+## Tổng quan - Overview
+
+### Các nhóm người dùng - User classes
+
+- **Nhân viên tại quán (thu ngân, pha chế, bảo vệ, quản lý kho):** chủ yếu sẽ dùng máy tính tại cửa hàng, máy chấm công
+- **Nhân viên phân tích và kế hoạch (quản lý, nhân sự, kế toán)**: chủ yếu sẽ dùng laptop, làm việc tại cửa hàng hoặc tại nhà
+- **Khách hàng:** sử dụng chủ yếu là thiết bị cầm tay (điện thoại, máy tính bảng), một phần nhỏ máy tính (desktop và laptop)
+
+## Yêu cầu và chức năng - Requirements and features
+
+### Nhân viên tại quán
 
 ...
 
