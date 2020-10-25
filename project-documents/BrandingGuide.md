@@ -3,7 +3,7 @@
 ### Về logo của chúng tôi
 Logo của `Nắng Cateria` là sự kết hợp giữa sự đơn giản và hiện đại. Chúng tôi luôn tuân theo các quy tắc thiết kế, chúng tôi rất tự hào về logo của chúng tôi.
 **Nhóm khách hàng**
-![Nhóm KH](https://drive.google.com/drive/folders/1ra50WM0DyHOBi0zJP1xz29KoZmDDxqWJ) 
+![customer](https://user-images.githubusercontent.com/63567258/97097397-6b8f5280-16a2-11eb-84fa-05e077e056ac.png)
 **Nhóm quản trị**
 ![Nhóm AD](https://drive.google.com/drive/folders/1ra50WM0DyHOBi0zJP1xz29KoZmDDxqWJ) 
 ### Về icon của logo
