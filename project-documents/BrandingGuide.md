@@ -3,9 +3,11 @@
 ### Về logo của chúng tôi
 Logo của `Nắng Cateria` là sự kết hợp giữa sự đơn giản và hiện đại. Chúng tôi luôn tuân theo các quy tắc thiết kế, chúng tôi rất tự hào về logo của chúng tôi.
 **Nhóm khách hàng**
+
 ![customer](https://user-images.githubusercontent.com/63567258/97097397-6b8f5280-16a2-11eb-84fa-05e077e056ac.png)
 **Nhóm quản trị**
-![Nhóm AD](https://drive.google.com/drive/folders/1ra50WM0DyHOBi0zJP1xz29KoZmDDxqWJ) 
+
+![Admin](https://user-images.githubusercontent.com/63567258/97097407-924d8900-16a2-11eb-8ec7-debaf68c47ec.png)
 ### Về icon của logo
 Icon là một biểu trưng cho thương hiệu, Mọi người có thể nhận ra chúng tôi khi thấy biểu trưng đó. Ở `Nắng Cateria` một cái cửa sổ nơi sẽ đưa ánh sáng vào phòng của bạn mang ý nghĩa `Nắng Cateria` có thể mang tới nguồn năng lượng tươi mới dồi dàu như cách mà chiếc cửa sổ nhà bạn mang lại nguồn ánh sáng cho căn phòng của bạn.
 ### Màu sắc
