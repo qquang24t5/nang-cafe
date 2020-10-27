@@ -35,5 +35,7 @@ Với tên `Nắng Cateria` chúng tôi luôn gắn liền với màu vàng - m�
 
 ### Typography 
 Ký tự là một điểm quan trọng trong nhận diện thương hiệu. Với `Nắng Cateria` đó là sự kết hợp hài hòa giữa 2 loại font chữ Citrica và MuseoModemo. 
+
 N : Citrica
+
 Ắ, N, G: MuseoModemo
