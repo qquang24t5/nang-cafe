@@ -47,4 +47,10 @@
         - Phần mềm: xuất ra tổng chi phí kho, chi phí từng loại nguyên liệu và cơ sở vật chất
         - Ghi chú: không có
    1. Thống kế sản phẩm
+	- Nguời dùng: không có
+	- Phần mềm: đếm số lượng từng sản phẩm đã bán ra theo ngày/tuần/tháng
+	- Ghi chú: Không có
    1. Thống kê năng suất nhân viên
+	- Nguời dùng: không có
+	- Phần mềm: xuất số ngày làm/nghỉ và thái độ làm việc của nhân viên trong ca làm
+	- Ghi chú: Không có
