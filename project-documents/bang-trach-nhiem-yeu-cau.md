@@ -20,7 +20,16 @@
 1. Kho
    1. Quản lý nhập
    1. Quản lý xuất
+   ### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
+| STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
+|:-----:|:-------------:|:--------------:|:-------------:|:---------:|
+| 1	| Quản lý xuất kho	| Cung cấp thông tin về sản phẩm được xuất ra	| Kiểm tra quy định và xuất thông tin như: tên ,số lượng ban đầu, số lượng đã lấy và số lượng còn lại của sản phẩm  	|Cho phép cập nhật lại sản phẩm đã xuất 
+
    1. Quản lý tồn kho
+   ### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
+| STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
+|:-----:|:-------------:|:--------------:|:-------------:|:---------:| 
+| 1	| Quản lý tồn kho	| Cung cấp thông tin về sản phẩm tồn trong kho	| Kiểm tra quy định và xuất thông tin sản phẩm tồn kho 	| Cho phép hủy và cập nhật lại sản phẩm tồn kho
    1. Quản lý nhà cung cấp
 1. Quản lý sản phẩm
    1. Quản lý thông tin sản phẩm
