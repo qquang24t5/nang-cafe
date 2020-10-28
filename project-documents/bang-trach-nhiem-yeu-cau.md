@@ -27,8 +27,21 @@
 |:-----:|:-------------:|:--------------:|:-------------:|:---------:|
 | 1	| Quản lý đơn hàng	| Cung cấp dữ liệu về sản phẩm, đơn hàng	| Kiểm tra qui định, ghi nhận và thêm thông tin đơn hàng	| Cho phép xóa, thêm và cập nhật lại thông tin sản phẩm, đơn hàng
    1. Quản lý chương trình, khuyến mãi
+   #### Bảng trách nhiệm yêu cầu nghiệp vụ
+
+ | STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
+|:-----:|:-------------:|:--------------:|:-------------:|:---------:|
+| 1	| Quản lý chương trình khuyến mãi	| Cung cấp thông tin về chương trình khuyến mãi , chiết khấu	| Giảm giá đơn hàng dựa theo chiết khấu mà khuyến mãi để ra	| Cho phép thêm , xóa , sửa cập nhật chương trinh khuyến mãi mới và thông kê được các chương trình khuyến mãi hiện có 
+
 1. Kho
    1. Quản lý nhập
+    #### Bảng trách nhiệm yêu cầu nghiệp vụ
+    
+| STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
+|:-----:|:-------------:|:--------------:|:-------------:|:---------:|
+| 1	| Quản lý Nhập Kho	| Cung cấp thông tin về hàng hóa nhập vào kho	| Ghi nhận số lượng của từng loại hàng được nhập vào kho với ngày tháng cụ thể	| Cho phép tìm kiếm hàng đã nhập theo tên nhà cung cấp , tên mặt hàng , ngày tháng
+
+   
    1. Quản lý xuất
    #### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
 | STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
