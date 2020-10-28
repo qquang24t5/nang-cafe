@@ -14,8 +14,18 @@
       |:---:|:--------------:|:------------------------------:|:-------------------------:|:------------------------------------:|
       |  1  | Quản lí ca làm | Cung cấp thông tin ca làm việc | Lưu thông tin ca làm việc, gửi thông báo/email cho nhân viên | Cho phép thêm, cập  nhật ca làm việc |
    1. Quản lý lương
+   #### Bảng trách nhiệm yêu cầu nghiệp vụ
+
+| STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
+|:-----:|:-------------:|:--------------:|:-------------:|:---------:|
+| 1	| Quản lý lương	| Cung cấp thông tin dự liệu về lương	| Kiểm tra qui định và ghi nhận	|Cho phép hủy, cập nhật lại dữ liệu, chỉ được xem khi xuất bảng lương
 1. Bán hàng
    1. Quản lý đơn hàng
+   #### Bảng trách nhiệm yêu cầu nghiệp vụ
+
+| STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
+|:-----:|:-------------:|:--------------:|:-------------:|:---------:|
+| 1	| Quản lý đơn hàng	| Cung cấp dữ liệu về sản phẩm, đơn hàng	| Kiểm tra qui định, ghi nhận và thêm thông tin đơn hàng	| Cho phép xóa, thêm và cập nhật lại thông tin sản phẩm, đơn hàng
    1. Quản lý chương trình, khuyến mãi
 1. Kho
    1. Quản lý nhập
