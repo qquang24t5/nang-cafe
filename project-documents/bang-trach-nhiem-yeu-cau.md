@@ -57,7 +57,15 @@
 1. Quản lý sản phẩm
    1. Quản lý thông tin sản phẩm
    1. Quản lý công thức
+   #### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
+| STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
+|:-----:|:-------------:|:--------------:|:-------------:|:---------:|
+| 1	| Quản lý công thức	| Cung cấp thông tin về công thức của từng loại sản phẩm	| Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và công thức để pha chế 	|Cho phép thêm,  xóa, cập nhật thông tin 
    1. Quản lý giá
+   #### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
+| STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
+|:-----:|:-------------:|:--------------:|:-------------:|:---------:| 
+| 1	| Quản lý giá bán	| Cung cấp thông tin về giá bán của từng loại sản phẩm	| Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và giá niêm yiết	| Cho phép thêm, xóa, cập nhật thông tin 
 1. Quản lý khách hàng
 
    1. Thông tin khách hàng
