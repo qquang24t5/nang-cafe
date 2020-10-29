@@ -21,48 +21,33 @@
       - Phần mềm: Kiểm tra qui định, ghi nhận và thêm thông tin đơn hàng
       - Ghi chú: Cho phép xóa, thêm và cập nhật lại thông tin sản phẩm, đơn hàng
    1. Quản lý chương trình, khuyến mãi
-
-| STT |            Nghiệp vụ            |                         Người dùng                         |                         Phần mềm                          |                                                       Ghi chú                                                       |
-| :-: | :-----------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  1  | Quản lý chương trình khuyến mãi | Cung cấp thông tin về chương trình khuyến mãi , chiết khấu | Giảm giá đơn hàng dựa theo chiết khấu mà khuyến mãi để ra | Cho phép thêm , xóa , sửa cập nhật chương trinh khuyến mãi mới và thông kê được các chương trình khuyến mãi hiện có |
-
+      - Người dùng: Cung cấp thông tin về chương trình khuyến mãi, chiết khấu
+      - Phần mềm: Giảm giá đơn hàng dựa theo chiết khấu mà khuyến mãi để ra
+      - Ghi chú: Cho phép thêm , xóa , sửa cập nhật chương trinh khuyến mãi mới và thông kê được các chương trình khuyến mãi hiện có
 1. Kho
    1. Quản lý nhập
-   #### Bảng trách nhiệm yêu cầu nghiệp vụ
-
-| STT |    Nghiệp vụ     |                 Người dùng                  |                                   Phần mềm                                   |                                     Ghi chú                                      |
-| :-: | :--------------: | :-----------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|  1  | Quản lý Nhập Kho | Cung cấp thông tin về hàng hóa nhập vào kho | Ghi nhận số lượng của từng loại hàng được nhập vào kho với ngày tháng cụ thể | Cho phép tìm kiếm hàng đã nhập theo tên nhà cung cấp , tên mặt hàng , ngày tháng |
-
-1.  Quản lý xuất
-
-#### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
-
-| STT |    Nghiệp vụ     |                 Người dùng                  |                                                     Phần mềm                                                     |                Ghi chú                 |
-| :-: | :--------------: | :-----------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------: |
-|  1  | Quản lý xuất kho | Cung cấp thông tin về sản phẩm được xuất ra | Kiểm tra quy định và xuất thông tin như: tên ,số lượng ban đầu, số lượng đã lấy và số lượng còn lại của sản phẩm | Cho phép cập nhật lại sản phẩm đã xuất |
-
-1.  Quản lý tồn kho
-
-#### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
-
-| STT |    Nghiệp vụ    |                  Người dùng                  |                       Phần mềm                       |                    Ghi chú                    |
-| :-: | :-------------: | :------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------: |
-|  1  | Quản lý tồn kho | Cung cấp thông tin về sản phẩm tồn trong kho | Kiểm tra quy định và xuất thông tin sản phẩm tồn kho | Cho phép hủy và cập nhật lại sản phẩm tồn kho |
-
-1. Quản lý nhà cung cấp
+      - Người dùng: Cung cấp thông tin về hàng hóa nhập vào kho
+      - Phần mềm: Ghi nhận số lượng của từng loại hàng được nhập vào kho với ngày tháng cụ thể
+      - Ghi chú: Cho phép tìm kiếm hàng đã nhập theo tên nhà cung cấp , tên mặt hàng , ngày tháng
+   1. Quản lý xuất
+      - Người dùng: Cung cấp thông tin về sản phẩm được xuất ra
+      - Phần mềm: Kiểm tra quy định và xuất thông tin như: tên, số lượng ban đầu, số lượng đã lấy và số lượng còn lại của sản phẩm
+      - Ghi chú: Cho phép cập nhật lại sản phẩm đã xuất
+   1. Quản lý tồn kho
+      - Người dùng: Cung cấp thông tin về sản phẩm tồn trong kho
+      - Phần mềm: Kiểm tra quy định và xuất thông tin sản phẩm tồn kho
+      - Ghi chú: Cho phép hủy và cập nhật lại sản phẩm tồn kho
+   1. Quản lý nhà cung cấp
 1. Quản lý sản phẩm
    1. Quản lý thông tin sản phẩm
    1. Quản lý công thức
-   #### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
-   | STT |     Nghiệp vụ     |                       Người dùng                       |                                       Phần mềm                                       |                Ghi chú                 |
-   | :-: | :---------------: | :----------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------: |
-   |  1  | Quản lý công thức | Cung cấp thông tin về công thức của từng loại sản phẩm | Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và công thức để pha chế | Cho phép thêm, xóa, cập nhật thông tin |
+      - Người dùng: Cung cấp thông tin về công thức của từng loại sản phẩm
+      - Phần mềm: Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và công thức để pha chế
+      - Ghi chú: Cho phép thêm, xóa, cập nhật thông tin
    1. Quản lý giá
-   #### BẢNG TRÁCH NHIỆM YÊU CẦU NHIỆM VỤ
-   | STT |    Nghiệp vụ    |                      Người dùng                      |                                   Phần mềm                                    |                Ghi chú                 |
-   | :-: | :-------------: | :--------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------: |
-   |  1  | Quản lý giá bán | Cung cấp thông tin về giá bán của từng loại sản phẩm | Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và giá niêm yiết | Cho phép thêm, xóa, cập nhật thông tin |
+      - Người dùng: Cung cấp thông tin về giá bán của từng loại sản phẩm
+      - Phần mềm: Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và giá niêm yiết
+      - Ghi chú: Cho phép thêm, xóa, cập nhật thông tin
 1. Quản lý khách hàng
    1. Thông tin khách hàng
       - Người dùng: Cung cấp hồ sơ khách hàng
