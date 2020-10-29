@@ -38,8 +38,14 @@
       - Phần mềm: Kiểm tra quy định và xuất thông tin sản phẩm tồn kho
       - Ghi chú: Cho phép hủy và cập nhật lại sản phẩm tồn kho
    1. Quản lý nhà cung cấp
+      - Người dùng: Cung cấp thông tin về nhà cung cấp
+      - Phần mềm: Kiểm tra quy định và ghi nhận
+      - Ghi chú: Cho phép cập nhật thông tin nhà cung cấp
 1. Quản lý sản phẩm
    1. Quản lý thông tin sản phẩm
+      - Người dùng: Cung cấp thông tin sản phẩm
+      - Phần mềm: Kiểm tra quy định và ghi nhận
+      - Ghi chú: Cho phép cập nhật thông tin sản phẩm
    1. Quản lý công thức
       - Người dùng: Cung cấp thông tin về công thức của từng loại sản phẩm
       - Phần mềm: Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và công thức để pha chế
