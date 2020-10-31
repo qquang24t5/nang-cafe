@@ -45,7 +45,7 @@ Phần mềm này sẽ giúp Nắng Cafe - một cửa hàng cà phê và bánh 
 ## Yêu cầu
 
 1. Quản lý nhân viên
-    1. Thông tin nhân viên
+    1. Quản lý thông tin nhân viên
     1. Quản lý ca làm
     1. Quản lý lương
 1. Bán hàng
@@ -61,7 +61,7 @@ Phần mềm này sẽ giúp Nắng Cafe - một cửa hàng cà phê và bánh 
     1. Quản lý công thức
     1. Quản lý giá
 1. Quản lý khách hàng
-    1. Thông tin khách hàng
+    1. Quản lý thông tin khách hàng
     1. Đánh giá khách hàng
 1. Thống kế
     1. Thống kê doanh thu
