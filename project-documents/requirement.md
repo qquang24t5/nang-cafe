@@ -38,15 +38,11 @@ Phần mềm này sẽ giúp Nắng Cafe - một cửa hàng cà phê và bánh 
 
 ## Yêu cầu và chức năng - Requirements and features
 
-### Nhân viên tại quán
-
-...
-
-## Yêu cầu
+## Yêu cầu chức năng
 
 1. Quản lý nhân viên
-    1. Quản lý thông tin nhân viên
-    1. Quản lý ca làm
+    1. Quản lý tài khoản nhân viên: lưu trữ, chỉnh sửa thông tin cá nhân và quyền của nhân viên, bao gồm cả thời gian mà 1 nhân viên bất kỳ sỡ hữu 1 quyền (Trả lời câu hỏi "Vào thời điểm x, nhân viên y có quyền z hay không?")
+    1. Quản lý ca làm: 
     1. Quản lý lương
 1. Bán hàng
     1. Quản lý đơn hàng
