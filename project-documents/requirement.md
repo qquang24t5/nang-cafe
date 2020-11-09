@@ -36,6 +36,17 @@ Phần mềm này sẽ giúp Nắng Cafe - một cửa hàng cà phê và bánh 
 - **Nhân viên phân tích và kế hoạch (quản lý, nhân sự, kế toán)**: chủ yếu sẽ dùng laptop, làm việc tại cửa hàng hoặc tại nhà
 - **Khách hàng:** sử dụng chủ yếu là thiết bị cầm tay (điện thoại, máy tính bảng), một phần nhỏ máy tính (desktop và laptop)
 
+### Các công nghệ sử dụng
+
+- Backend:
+    - Ngôn ngữ: Java
+    - Môi trường: [Java SE, version 15.0.1 của Oracle](https://www.oracle.com/java/technologies/javase-downloads.html)
+- Cơ sở dữ liệu:
+    - Hệ cơ sở dữ liệu: [MySQL Community Server 8.0.22](https://dev.mysql.com/downloads/mysql/)
+
+
+#### Công nghệ hỗ trợ (Cần cập nhật)
+
 ## Yêu cầu và chức năng - Requirements and features
 
 ## Yêu cầu chức năng
