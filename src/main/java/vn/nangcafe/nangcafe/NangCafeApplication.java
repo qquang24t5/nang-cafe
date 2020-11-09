@@ -1,4 +1,4 @@
-package sgu.nangcafe;
+package vn.nangcafe.nangcafe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

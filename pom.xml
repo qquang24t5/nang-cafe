@@ -5,23 +5,27 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.3.4.RELEASE</version>
+		<version>2.3.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>nang-cafe-dev</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>vn.nangcafe</groupId>
+	<artifactId>nang-cafe</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>nang-cafe</name>
-	<description>A coffee & pastries shop management application for Nắng Cafe</description>
+	<description>Nang Cafe's administrators website</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>15</java.version>
 	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
