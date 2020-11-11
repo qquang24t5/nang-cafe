@@ -14,4 +14,10 @@ public class ViewController {
         return "pages/login";
     }
 
+    @GetMapping("/personnels")
+    public String getPersonnelsPage(ModelMap model) {
+        model.put("title", "Nhân viên - Nắng Cafe");
+        return "pages/personnels";
+    }
+
 }
