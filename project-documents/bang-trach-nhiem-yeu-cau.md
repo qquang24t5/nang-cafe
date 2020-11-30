@@ -2,124 +2,129 @@
 
 ## Quản lý nhân viên
 
-### Quản lý tài khoản nhân viên
+### 1. Quản lý tài khoản nhân viên
 
 - Người dùng:
-  - Nhân viên nhập vào thông tin cá nhân
-  - Quản lí cấp quyền
-- Phần mềm: Tạo tài khoản mới cho nhân viên
-- Ghi chú: Cho phép nhân viên thêm, xóa, cập nhật thông tin cá nhân, nhưng quyền phải do quản lý chỉnh sửa
+  - (Nhân viên) Nhập vào thông tin cá nhân
+  - (Quản lí) Cấp quyền
+- Phần mềm: Tạo/Cập nhật tài khoản mới cho nhân viên
+- Ghi chú: (trống)
 
-### Quản lý ca làm
+### 2. Quản lý ca làm
 
 - Người dùng:
-   - Quản lý cung cấp thông tin ca làm (tạm thời) trước khi bắt đầu tuần làm
-   - Trước khi tuần làm bắt đầu, nhân viên yêu cầu thay đổi ca làm
-- Phần mềm: Lưu thông tin ca làm, gửi thông báo/email cho nhân viên
-- Ghi chú: Cho phép quản lý thêm, cập nhật ca làm việc. Nhân viên không được thay đổi ca làm mà phải thông qua quản lý
+  - (Quản lý) Lập lịch làm của tuần tiếp theo 
+  - (Quản lý) Chỉnh sửa lịch làm
+- Phần mềm
+  - Lưu lịch làm, gửi thông báo cho nhân viên
+  - Khi có chỉnh sửa, xét tính hợp lệ. Nếu hợp lệ, cập nhật lịch làm việc, lưu thời gian chỉnh sửa và người thực hiện
+- Ghi chú:
+  - Nhân viên không có quyền chỉnh sửa mà phải qua quản lý
+  - Chỉnh sửa lịch làm sớm nhất là 1 giờ trước khi ca làm đó bắt đầu
 
-### Quản lý lương
+### 3. Quản lý lương
 
-- Người dùng: quản lý cung cấp thông tin dự liệu về lương
-- Phần mềm: Kiểm tra qui định và ghi nhận
-- Ghi chú: Cho phép hủy, cập nhật lại dữ liệu, chỉ được xem khi xuất bảng lương
+- Người dùng: (Quản lý) Tạo/Chỉnh sửa lương của nhân viên
+- Phần mềm: Cập nhật, lưu thời gian và người thực hiện
+- Ghi chú: Chỉnh sửa sẽ có hiệu lực ở tháng tiếp theo
 
 ## Bán hàng
 
-### Quản lý đơn hàng
+### 4. Đặt hàng
 
-- Người dùng: Cung cấp dữ liệu về sản phẩm, đơn hàng
-- Phần mềm: Kiểm tra qui định, ghi nhận và thêm thông tin đơn hàng
-- Ghi chú: Cho phép xóa, thêm và cập nhật lại thông tin sản phẩm, đơn hàng
+- Người dùng:
+  - (Nhân viên) Lập đơn hàng kèm thông tin khách hàng
+- Phần mềm: Lưu đơn hàng
+- Ghi chú: Cho phép chỉnh sửa hoặc xóa đơn hàng trong vòng 1 giờ sau khi lập đơn
 
-### Quản lý chương trình, khuyến mãi
+### 5. Quản lý chương trình, khuyến mãi
 
-- Người dùng: Cung cấp thông tin về chương trình khuyến mãi, chiết khấu
-- Phần mềm: Giảm giá đơn hàng dựa theo chiết khấu mà khuyến mãi để ra
-- Ghi chú: Cho phép thêm , xóa , sửa cập nhật chương trinh khuyến mãi mới và thông kê được các chương trình khuyến mãi hiện có
+- Người dùng: (Quản lý) Tạo chương trình khuyến mãi
+- Phần mềm: Lưu chương trình khuyến mãi và người thực hiện
+- Ghi chú: Cho phép chỉnh sửa/xóa chương trinh khuyến mãi
 
 ## Kho
 
-### Quản lý nhập
+### 6. Quản lý nhập
 
-- Người dùng: Cung cấp thông tin về hàng hóa nhập vào kho
-- Phần mềm: Ghi nhận số lượng của từng loại hàng được nhập vào kho với ngày tháng cụ thể
-- Ghi chú: Cho phép tìm kiếm hàng đã nhập theo tên nhà cung cấp , tên mặt hàng , ngày tháng
+- Người dùng: (Nhân viên) Cung cấp thông tin phiếu nhập kho
+- Phần mềm: Lưu phiếu nhập kho, cập nhật số lượng, nhân viên lập phiếu
+- Ghi chú: (trống)
 
-### Quản lý xuất
+### 7. Quản lý xuất
 
 - Người dùng: Cung cấp thông tin về sản phẩm được xuất ra
-- Phần mềm: Kiểm tra quy định và xuất thông tin như: tên, số lượng ban đầu, số lượng đã lấy và số lượng còn lại của sản phẩm
-- Ghi chú: Cho phép cập nhật lại sản phẩm đã xuất
+- Phần mềm: Kiểm tra quy định và xuất thông tin như: tên, số lượng ban đầu, số lượng đã lấy và số lượng còn lại của sản phẩm. Nếu hợp lệ, lưu phiếu xuất kho, nhân viên yêu cầu xuất kho và nhân viên ký xác nhận xuất kho
+- Ghi chú: (trống)
 
-### Quản lý tồn kho
+### 8. Quản lý tồn kho
 
-- Người dùng: Cung cấp thông tin về sản phẩm tồn trong kho
-- Phần mềm: Kiểm tra quy định và xuất thông tin sản phẩm tồn kho
-- Ghi chú: Cho phép hủy và cập nhật lại sản phẩm tồn kho
+- Người dùng: (Nhân viên) Kiểm tra và lập báo cáo tồn kho
+- Phần mềm: Lưu báo cáo tồn kho và người kiêm kê, thông báo nếu có thất thoát lớn trong kho
+- Ghi chú: Báo cáo tồn kho được lập mỗi khi kết thúc ca
 
-### Quản lý nhà cung cấp
+### 9. Quản lý nhà cung cấp
 
-- Người dùng: Cung cấp thông tin về nhà cung cấp
-- Phần mềm: Kiểm tra quy định và ghi nhận
-- Ghi chú: Cho phép cập nhật thông tin nhà cung cấp
+- Người dùng: (Quản lý) Cung cấp/Cập nhật thông tin về nhà cung cấp
+- Phần mềm: Lưu thông tin nhà cung cấp
+- Ghi chú: (trống)
 
 ## Quản lý sản phẩm
 
-### Quản lý thông tin sản phẩm
+### 10. Quản lý thông tin sản phẩm
 
-- Người dùng: Cung cấp thông tin sản phẩm
-- Phần mềm: Kiểm tra quy định và ghi nhận
-- Ghi chú: Cho phép cập nhật thông tin sản phẩm
+- Người dùng: (Quản lý) Cung cấp/Chỉnh sửa sản phẩm
+- Phần mềm: Lưu sản phẩm
+- Ghi chú: (trống)
 
-### Quản lý công thức
+### 11. Quản lý công thức
 
-- Người dùng: Cung cấp thông tin về công thức của từng loại sản phẩm
-- Phần mềm: Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và công thức để pha chế
-- Ghi chú: Cho phép thêm, xóa, cập nhật thông tin
+- Người dùng: (Quản lý) Cung cấp/Chỉnh sửa thông tin về công thức của sản phẩm
+- Phần mềm: Lưu công thức
+- Ghi chú: (trống)
 
-### Quản lý giá
+### 12. Quản lý giá
 
-- Người dùng: Cung cấp thông tin về giá bán của từng loại sản phẩm
-- Phần mềm: Kiểm tra qui định và quản lý các thông tin gồm: Tên sản phẩm và giá niêm yiết
+- Người dùng: (Quản lý) Cung cấp/Chỉnh sửa giá sản phẩm
+- Phần mềm: Lưu giá và người chỉnh sửa
 - Ghi chú: Cho phép thêm, xóa, cập nhật thông tin
 
 ## Quản lý khách hàng
 
-### Thông tin khách hàng
+### 13. Thông tin khách hàng
 
-- Người dùng: Cung cấp hồ sơ khách hàng
-- Phần mềm: Kiểm tra qui định và thêm thông tin khách hàng
-- Ghi chú: Cho phép xóa, cập nhật thông tin khách hàng
+- Người dùng: (Khách hàng) Cung cấp/Chỉnh sửa thông tin cá nhân
+- Phần mềm: Lưu thông tin khách hàng
+- Ghi chú: (trống)
 
-### Đánh giá khách hàng
+### 14. Đánh giá khách hàng
 
-- Người dùng: Cung cấp dữ liệu về khách hàng
-- Phần mềm: Kiểm tra qui định và thêm thông tin đánh giá khách hàng
-- Ghi chú: Cho phép xóa, cập nhật thông tin đánh giá khách hàng
+- Người dùng: (Khách hàng) Thêm/Chỉnh sửa/Xóa đánh giá sản phẩm
+- Phần mềm: Kiểm tra qui định và lưu đánh giá
+- Ghi chú: Chỉ cho phép đánh giá về sản phẩm đã mua, tối đa 1 đánh giá mỗi lần mua nhưng không giới hạn lượt sửa
 
 ## Thống kế
 
-### Thống kê doanh thu
+### 15. Thống kê doanh thu
 
-- Người dùng: không có
-- Phần mềm: thu thập, tổng hợp và trả lại tổng doanh thu của cửa hàng, doanh thu của từng sản phẩm
-- Ghi chú: không có
+- Người dùng: (Quản lý) Thời gian muốn thống kê
+- Phần mềm: Lập thống kê
+- Ghi chú: (trống)
 
-### Thống kê kho
+### 16. Thống kê kho
 
-- Người dùng: không có
-- Phần mềm: xuất ra tổng chi phí kho, chi phí từng loại nguyên liệu và cơ sở vật chất
-- Ghi chú: không có
+- Người dùng: (Quản lý) Loại vật phẩm, thời gian muốn thống kê
+- Phần mềm: Lập thống kê
+- Ghi chú: (trống)
 
-### Thống kế sản phẩm
+### 17. Thống kế sản phẩm
 
-- Nguời dùng: không có
-- Phần mềm: đếm số lượng từng sản phẩm đã bán ra theo ngày/tuần/tháng
-- Ghi chú: Không có
+- Nguời dùng: (Quản lý) Loại sản phẩm, thời gian muốn thống kê
+- Phần mềm: Lập thống kê
+- Ghi chú: (trống)
 
-### Thống kê năng suất nhân viên
+### 18. Thống kê năng suất nhân viên
 
-- Nguời dùng: không có
-- Phần mềm: xuất số ngày làm/nghỉ và thái độ làm việc của nhân viên trong ca làm
-- Ghi chú: Không có
+- Nguời dùng: (Quản lý) Nhân viên, thời gian muốn thống kê
+- Phần mềm: Lập thống kê
+- Ghi chú: (trống)
